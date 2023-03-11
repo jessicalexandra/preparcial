@@ -1,0 +1,1 @@
+# no olvidar recorrer una lista 
